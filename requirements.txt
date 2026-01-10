@@ -6,3 +6,4 @@ google-generativeai
 matplotlib
 seaborn
 scikit-learn
+plotly
